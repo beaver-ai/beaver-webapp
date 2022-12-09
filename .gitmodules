@@ -1,0 +1,9 @@
+[submodule "apps/ext-console-app-1"]
+	path = apps/ext-console-app-1
+	url = git@github.com:beaver-ai/ext-console-app.git
+[submodule "apps/ext-console-app-2"]
+	path = apps/ext-console-app-2
+	url = git@github.com:beaver-ai/ext-console-app.git
+[submodule "apps/ext-console-app-3"]
+	path = apps/ext-console-app-3
+	url = git@github.com:beaver-ai/ext-console-app.git
